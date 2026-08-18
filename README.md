@@ -1,10 +1,20 @@
-<h1>👋 Hi there</h1>
-I'm Daniel Schwinghammer a passionate Embedded Software Developer.
+<h1 align="center">Hi there! 🚀 
+  
+   I'm Daniel Schwinghammer 😄
+</h1>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>About me</h3>
+
+- 🎓 I studied Computer Engineering at Augsburg University of Applied Sciences
+- 🏢 Embedded Software Developer at Silver Atena
+- 🤩 Passionate about embedded programming
+- 📖 I'm currently learning Rust and C#
+- ⭐ My hobbies besides programming are 🏒 and 🎮
+
+<h3>Languages and Tools:</h3>
+
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp; &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> &nbsp; &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp; &nbsp;
 </p>
