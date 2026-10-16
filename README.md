@@ -8,7 +8,7 @@
 - 🎓 I studied Computer Engineering at Augsburg University of Applied Sciences
 - 🏢 Embedded Software Developer at Silver Atena
 - 🤩 Passionate about embedded programming
-- 📖 I'm currently learning Rust and C#
+- 📖 I'm currently learning [Go](https://go.dev/)
 - ⭐ My hobbies besides programming are 🏒 and 🎮
 
 <h3>Languages and Tools:</h3>
